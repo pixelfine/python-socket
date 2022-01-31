@@ -1,0 +1,138 @@
+/!\CE FICHIER NE SERT A RIEN, C EST MON BROUILLON DE COMMANDE
+
+from types import DynamicClassAttribute
+
+
+ask jch.irif.fr ./jch.irif.fr
+ask jch.irif.fr ./jch.irif.fr/documents
+ask jch.irif.fr ./jch.irif.fr/images
+ask jch.irif.fr ./jch.irif.fr/
+
+ask "El jafar" "./El jafar/"
+ask "El jafar" "./El jafar/36kf44pezdw71.jpg"
+
+18dbd12d614204f4562c8aa9807a19f7619c482f2aba7942b5770f4af935af5e
+├── 9117db3ee32bbab0642d686d42ad5816dee1fde7cfc2db048c3d680226dc7bba
+│   └── 825e958e84271342b606cafb9f1b7dfe942fc635247d8e5cbc4b73ecb728826e
+│       ├── 05c10694333d3297eb1afdeab9619349ad3b7497767a80d43378f6834bfe25a0
+│       └── a38b6bfea1f7cfb46fffefab1ba19412d81bb208c25e080398252de0e7ed5c62
+├── 19f44407f5cf563887b9447440109c7ee162ab2cb58f18c24f737c38dbe255f1
+│   ├── ccdae3a6b5e2147cf64ff5217a08d45ed6e0a2c027b38c1e757168ca7db173a0
+│   └── 81627a308b09f757635e051224cce2a8af3f9c821798a0a5b7b1d3a8ed5621c7
+│       ├── 725e79a75cfd32336791c7427b449700bfc3901efb8118eb942b7783757ee0fa
+│       │   ├── f19500bf89a7b391c3fab7773d8a60693d6fab3e304cb1b726e401ca4ad47e71
+│       │   ├── b58d13aef1388e264be275b64702cf370ea1ed1c8b5f4e3e2c2bb62e6a8d5e80
+│       │   ├── dc45422909ad6ab106238077ebaca03d1dec04a4353d8b1533c4089f843b536e
+│       │   ├── e54a230c121b0f909bb7a01c02ce0be2101d5ce3305dcfd92d67c5be488730c9
+│       │   ├── b4211a368f284e93ddf957fcbd14760f35fdfb300ceeed94d2fbcc444a123933
+│       │   ├── e8a778ee7646e87781f496a81e8d201d45b2061c4fef202d1911bf0556178439
+│       │   ├── 99bb5371765e801eda03761743667942efcda2015f52374f408c1946cbd00261
+│       │   ├── a6a7dc0f21356b0a63605bbeb6cc30c125a119e3179f1536f448b40495270fa0
+│       │   ├── 901de54e0f2b1a4e4175303d352e6313406ea0fb5e45175047c4768b3cedf41e
+│       │   ├── d2408b368ddc54b3da67475f28f7283019d40f8509adfd2b782e9713012e2da1
+│       │   ├── fa3abb0610472c2c2319e6f4b0d7e46e36a497ec23b8f25970d7194c23ce8fe6
+│       │   ├── c8ddbf47db003d716649cb682cbc025b69955da9b20e3d011a4be87f2e7df85b
+│       │   ├── 7276a8008d0e5060cb40cb4591600d6d7fddec119f317fbdd9a7593139ea3dc9
+│       │   ├── 917a924e1a9346a360f27a827ca10f1294b7f76d37ed00a0c77f70fe09d8b5ea
+│       │   ├── 8145392b8f3e2e4eb6776143b3cff9a45382f7424c20841fce8e35afa8d74abd
+│       │   ├── b5fa77e9b8a449f3a67084bf2437baa37fbf34bd7726007843cf62bcf073cf88
+│       │   ├── f7d210585060d6b89109f709c4dd74e873748babe2bcd269a9ce6ac7a0c85249
+│       │   ├── 221eef75c9e62f39158bf34b60d42b7eba12835d6bafcaad456bc9f0a098ca9f
+│       │   ├── e5af4ec528868943ec68cc874e738b6b61636acf5807dd0961a8e48692316d30
+│       │   ├── 5cc2a14f2cb792cd8c99a89a16ec4b36bf63a65838cedcc07c24a1da56e81f38
+│       │   ├── 2d99f3dcfbe26ed5474831d3ce957281ee3ab769c3b2766e770b2f165b863d56
+│       │   ├── 064e3b212103b41e2229bc87e923983777ce64abfd23110620b5e35a8b507177
+│       │   ├── 9f365dad0da3ce80de56936a3bf587fc5d1d2979f577737a10fcf60780cb5642
+│       │   ├── cf9be6feb80b74abea37f1ffe810473bb2c9717c918f6e2e65769252de42140d
+│       │   ├── 0e6eed714d1df19aadaead01e6074a28500fbd5ba7ed3c7021237ad406bd4abc
+│       │   ├── e1c25071de62cb1b354c5f5051b28e48cbcaa11b208777dd7f81f089ae83fd2b
+│       │   ├── 9c148687890adf3aabb01ec9af0b52119332d5c0d90b2a2c8ca086935e9cd382
+│       │   ├── 4f61b6b1a9c3117b3796d29ec2ff5848ad55c31eb11a9e31e15d8a41eed24e22
+│       │   ├── 03a933b03c4320712626c316488ac59394cc6a8fe7e9ee153f6947b3fd3a3900
+│       │   ├── 38368440390ef0b42d0c31e766a13a8f5c10f610020167c073fefede3a304f99
+│       │   ├── 1c8cfe08b16a493c426e550d9e91715b11d7ee31672bb69ee149fe64302faa45
+│       │   └── b47a5e4bc1d5c5c3a4283b2b177fce939af9b6e2438e4c627194e94785f2eb75
+│       ├── 9f9de9d68543ebd000624a90cb907ecb34b90952d7c6847f847c8033738fb268
+│       │   ├── 0d712b165745afb228b5990700d96e6ede5c7e0f2b79c16a25dbf75d07b509e0
+│       │   ├── 37db96ca9e172845119c40232208feffd3dea5989742bcc036b27c09d1e1616a
+│       │   ├── 2d34d06e9baa800cd8718f58f0f2a47dda608842c743f415533d6495f3ce9e9a
+│       │   ├── ed5e04e2ea0b36fdc42ab6d18b92fb38dafc072be2f3c3c5fbe4ec56245f8188
+│       │   ├── facdf8311e605d01f68b97db3fe8f8e04f3699391be0b895296ff507b539e10f
+│       │   ├── 8184a91aa4fabe6185f789a41bf7f36d2767a54e1197c2b8823c11f53322f345
+│       │   ├── be9ec5507e9e624bf738175c0a985120ea50d113678a6011061fb80474385b91
+│       │   ├── 02acfe3e094aa40d3849a91c78e80131b4a34824e39e5c80533a9407170ac310
+│       │   ├── a2bc404675c1a708875e95c145b276161a7f944807ca44d27743337ad7a99386
+│       │   ├── aedbf1cd39c9da3facf82982a23d53ca0418cc2aef36c2565d3abb7793629250
+│       │   ├── 7a999a8d7f9bc8d4273b914f2b1910612d0e1137b09e8057ed85fb02335c4ef9
+│       │   ├── 2de4ffcd13784c5cd777d2bae00c03495440f625f925bf45f0c52564a25303e3
+│       │   ├── f7f5a36d9aa476b9f7756caf4b06ce6ba312bed2115e5bb0c797ec0b445a0a48
+│       │   ├── 0b98d2c424c6f8f95522a15c7d135817e4044396257cd390b65d20af5aa2b46c
+│       │   ├── dfacd2abca0aa3107c314159a6c84db2d6f1709521d265ab73a6a6920af92ac0
+│       │   ├── c001da41c27aeabee81a68379c80f8926a238c8c1f4add980bfd2c9c9ca0ce63
+│       │   ├── 1406f9d823052a676994f6664083cf89ab0d7c2bea723fdc5ce88c328047d04c
+│       │   ├── e117bd5d3edb863e2c22aa5897ab394d890e639bcce0afb4bf31cc024094aaa0
+│       │   ├── 3c164ce8ec5bcae7fc50128e4f84da2351613d8f0e7e23e453fbdd0d60897ddf
+│       │   ├── 9c0dd1d05a93923d06ff06ab816da97528e2b268dbeb99a80dc4aa148b8d4cfb
+│       │   ├── 2a77edae9573908fd5e085458ff0977aaa444338dba9ae6f69f7b31e3277ad76
+│       │   ├── 6458ff54c0d956d284966672cf75b3fa494bf3632e3cacd49c4f76bf8e07975c
+│       │   ├── 6113b8fdee09adb6fa5daceeaaa4877956f742640b2bbc1c37f850a576dd3354
+│       │   ├── 2ce16fb9f68301a5251544793aa09c0db7daf92085da1ee7ed9dd4bef00aaef9
+│       │   ├── f489facc0693b21b22a20362624a3ae51faf1ce23bf8191139ba75ea1a0d4b35
+│       │   ├── 4df06e75732b5cb4bdf625a44ce3918c16f2a982de06a44f942ebb1fcc3d11b5
+│       │   ├── 5e9d9cce2efb93693934eaa8059e451937c43b0aa1ce3d10963f7e5e66464c44
+│       │   ├── 45daab8a0ea7e030cfbf3ed9f375649fed48a1e740f544e139c0579ec8477340
+│       │   ├── 8dddbf31c20be7334456af4527c45e6a9e0f8ffb702daa50b1e84479a6cefb6f
+│       │   ├── 866c415cd1c73fac4f4f742a0d8e6498769db075e8c4570e141e3e5f5c9327bb
+│       │   ├── 6607e67a0a9a45954c57c255dda3cf481dd1663b48cab5779e1b32a3cfca90df
+│       │   └── 8ea862454d3fca4b1384ac1ae42b9f414d71a43ba0601265e6d4f684652d03f9
+│       └── 36601de390037e7b2798895e11b8fbb23ac45f61bf5befec8f64a3eba9ce23e6
+│           ├── b3f5a2d7f804d0f26105bad8c9bb711475d4afbc0cc64c26031ae8c7db6ba6f2
+│           ├── c1695712abdedad23dbd038b7461c96df8e436899f91a8955ab4967afbcddca1
+│           ├── 2c2b52e57b3e157ed1ca8c2809b65887494b1fc0949c38ae6c3810ab5edc0721
+│           ├── 1122b131e25313e9b91d74f57ecd8ccc03ec03f469c736da28151c5f99cef765
+│           ├── 12f001f03579bab74b1e4f7a08ef47f3bbb455c641fccad179019c79151ea58c
+│           ├── e9374619880de76caf00359c92e265ffd6c6212361c6683f378b9ab912f9417c
+│           ├── 352307fd958db838d4e2c3819dd070589158a1e85fb2d7cbcf30489d28162459
+│           ├── c62d735f658697a5f7637df7ce361650d99b555ea2ecdfc208a279277fc60ee2
+│           ├── dbad4f888641b202f3d054fcde7e2dd016994163173d35d898c5758ec50c28b8
+│           ├── 970358e219ec1fae74c465b3a28bef7bca4215a6427edac8b9f14040005a7807
+│           ├── 5ada4c9b9f0e3832f6c5da381a4bf2a9032aa1b57b47ace5fb35e8dc089d6429
+│           ├── f66bfbe36fdf5ba3d924a58db87bb9c93b7ec138a7015d1f104f932d3784110f
+│           ├── c9937e558e1c7bb827c2720d04a985cbc88eb94bd9cb08e46630de1e133d07c2
+│           ├── 27f5ea21cfa63e14937dfba8e11df3345e4c2dffaef01d7c739c1e9eda5042b8
+│           ├── 7981dfa75f792384f9d5893ab5a3bb6bebebd1cb4679b66ab2d00e3e5d813fda
+│           ├── 588ad02a6b4c56ac0051d147e868648646ef7317f7a5e431569cda496a2c17a4
+│           ├── fe60261b0ae840f3a6dc87738f312add1f7f62b0477934a4500ccccc9c249b71
+│           ├── 056411a6a9646a2e044e8f05f3a7debf01060e83f013e3615294987d5a1fa5fe
+│           ├── d1c4922777131b9b02898512976a105069c5174bd3b013213b0723eefae41b35
+│           ├── 1b2e327aeda6526c919fb6a53c09826d1e54e8fc6371ec7338c28e4c37abd2f1
+│           ├── 9c8002f93fa9c24c346d9ad5368324e3c5a180b65162864b1bd5c344792c8edd
+│           ├── 49d1042f85387b6e1ee30d242f13b8f67300f2fa36a4bd9f8c4a9b0d131a8932
+│           ├── 9a80103bff26cc01c964393873147107406c8a6876e62267169566608c02219c
+│           ├── 5803848f02ed4d771df89938528e721aba045a64e3a76dac0a5ff141d631b156
+│           ├── 8b60e3122dd6902408c2f6d3e1f65b9bb789ff9e1bb7273ee1c1465699608d2d
+│           ├── 9da48db225b49b6f44377ca4f56964c4d888fe81eb5efa139898d8e8fe1a942a
+│           ├── 68e2af8c93ba184bd992158816f6536d96397719f0129cd6a2f5e574859c6835
+│           ├── 7ace9ea0182cbca9360998626a092118bc37868199310b2def81b2f33fe75165
+│           └── b76bb8149ee0461cddc6b7053d529340e08a4d9c41ed77aeaafb03ca4f1b0875
+├── f70b54ae98defe7701abf2acda6f8c0da4ad9f308a401a12289809434b1e5a90
+│   ├── 7d28626d008e724ce955172011458d19078c2e37fd4103371f4d0a96129b6f31
+│   └── 80c43291b3107befc71c34593ed53b4633d5978c1aa02b21b318adef28f24ae6
+└── 143c5ca47958c47209a6d51336f9a0d09f19d8efe6949451ef95e5e890227a42
+
+
+
+
+
+
+b'\xbcP\xca\xd2\xa2.E\xaf\x7fT\xcaC\xd2N|i\xcbc n\xd2\xde\x0b\x8b\xa06\xc3\x9c\xb6m\x92\x12'[b'\x00\x02bigFile\x91\x17\xdb>\xe3+\xba\xb0d-hmB\xadX\x16\xde\xe1\xfd\xe7\xcf\xc2\xdb\x04\x8c=h\x02&\xdc{\xbajchD\x1a\x81\x14\x1e\xfe\xafP\x16\x03\x85\x93\xa4\xce[J\x85\xca\x9f\xaf3\xfcw\xceq\xf1\x1a\xd1\xed\xc7b\\Folder1\xf7\x0bT\xae\x98\xde\xfew\x01\xab\xf2\xac\xdao\x8c\r\xa4\xad\x9f0\x8a@\x1a\x12(\x98\tCK\x1eZ\x90chunk\x14<\\\xa4yX\xc4r\t\xa6\xd5\x136\xf9\xa0\xd0\x9f\x19\xd8\xef\xe6\x94\x94Q\xef\x95\xe5\xe8\x90"zB']
+├── b'\x91\x17\xdb>\xe3+\xba\xb0d-hmB\xadX\x16\xde\xe1\xfd\xe7\xcf\xc2\xdb\x04\x8c=h\x02&\xdc{\xba'[bytearray(b"\x01\x82^\x95\x8e\x84\'\x13B\xb6\x06\xca\xfb\x9f\x1b}\xfe\x94/\xc65$}\x8e\\\xbcKs\xec\xb7(\x82n")]
+│   └── b"\x82^\x95\x8e\x84'\x13B\xb6\x06\xca\xfb\x9f\x1b}\xfe\x94/\xc65$}\x8e\\\xbcKs\xec\xb7(\x82n"[bytearray(b'\x01\x05\xc1\x06\x943=2\x97\xeb\x1a\xfd\xea\xb9a\x93I\xad;t\x97vz\x80\xd43x\xf6\x83K\xfe%\xa0\xa3\x8bk\xfe\xa1\xf7\xcf\xb4o\xff\xef\xab\x1b\xa1\x94\x12\xd8\x1b\xb2\x08\xc2^\x08\x03\x98%-\xe0\xe7\xed\\b')]
+│       ├── b'\x05\xc1\x06\x943=2\x97\xeb\x1a\xfd\xea\xb9a\x93I\xad;t\x97vz\x80\xd43x\xf6\x83K\xfe%\xa0'[b'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam orci risus, hendrerit et hendrerit ornare, varius in arcu. Vestibulum ipsum nunc, ornare ac leo et, euismod aliquet nibh. Nunc aliquet nec eros laoreet mollis. Donec augue mauris, placerat sit amet ultricies in, suscipit vel eros. Nam maximus fermentum ante a aliquet. Suspendisse malesuada, urna sit amet bibendum varius, tellus turpis tincidunt urna, in aliquet ligula leo quis quam. Nulla facilisi. Sed sed fringilla metus. Nam vel dictum ipsum.\n\nMaecenas sed libero vestibulum turpis viverra pellentesque id vitae velit. Nunc at arcu eget eros hendrerit pulvinar ut sed ligula. Donec sed justo lorem. Integer erat lectus, consectetur ac auctor nec, laoreet in tortor. Nulla quis aliquet lacus, eget rutrum urna. Vivamus auctor ligula quam, efficitur egestas ante posuere in. Aliquam sagittis lectus leo, vel dapibus leo dictum in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed leo nec nunc lobortis molestie.\n\nQuisque mattis justo qu']
+│       └── b'\xa3\x8bk\xfe\xa1\xf7\xcf\xb4o\xff\xef\xab\x1b\xa1\x94\x12\xd8\x1b\xb2\x08\xc2^\x08\x03\x98%-\xe0\xe7\xed\\b'[b'is libero faucibus accumsan. Mauris nec fermentum dolor, pharetra accumsan massa. Sed nisi magna, sodales vel facilisis sit amet, lacinia nec enim. Nam pulvinar feugiat sagittis. Fusce nisi diam, suscipit sed tincidunt sit amet, interdum vitae nulla. Aenean lacus lectus, hendrerit vel lacus nec, egestas ultrices massa. Phasellus volutpat at diam non tincidunt. Nulla tempus, libero vel sollicitudin scelerisque, leo ipsum imperdiet augue, at consectetur arcu dolor ac eros.\n\nNulla non massa dignissim urna faucibus semper. Ut eget massa finibus, hendrerit odio eget, luctus ex. Donec bibendum nulla massa, nec tincidunt nunc aliquam sit amet. Proin sit amet iaculis urna. Sed metus neque, porttitor ut lacinia eu, finibus imperdiet turpis. Proin vitae lorem sit amet neque tincidunt sodales sed ut nisl. Proin finibus elit quis aliquam dignissim. Sed dolor tortor, consectetur at luctus non, scelerisque at diam. Aenean sodales pulvinar enim eget pulvinar. Curabitur malesuada non.\n']
+├── b'D\x1a\x81\x14\x1e\xfe\xafP\x16\x03\x85\x93\xa4\xce[J\x85\xca\x9f\xaf3\xfcw\xceq\xf1\x1a\xd1\xed\xc7b\\'[b"\x00\x02README.txt\xcc\xda\xe3\xa6\xb5\xe2\x14|\xf6O\xf5!z\x08\xd4^\xd6\xe0\xa2\xc0'\xb3\x8c\x1euqh\xca}\xb1s\xa0"]
+│   └── b"\xcc\xda\xe3\xa6\xb5\xe2\x14|\xf6O\xf5!z\x08\xd4^\xd6\xe0\xa2\xc0'\xb3\x8c\x1euqh\xca}\xb1s\xa0"[b'Notre sauveur \xc3\xa0 tous !\n']
+├── b'\xf7\x0bT\xae\x98\xde\xfew\x01\xab\xf2\xac\xdao\x8c\r\xa4\xad\x9f0\x8a@\x1a\x12(\x98\tCK\x1eZ\x90'[b'\x00\x02chunk2}(bm\x00\x8erL\xe9U\x17 \x11E\x8d\x19\x07\x8c.7\xfdA\x037\x1fM\n\x96\x12\x9bo1chunk\x80\xc42\x91\xb3\x10{\xef\xc7\x1c4Y>\xd5;F3\xd5\x97\x8c\x1a\xa0+!\xb3\x18\xad\xef(\xf2J\xe6']
+│   ├── b'}(bm\x00\x8erL\xe9U\x17 \x11E\x8d\x19\x07\x8c.7\xfdA\x037\x1fM\n\x96\x12\x9bo1'[b'Nulla non massa dignissim urna faucibus semper. Ut eget massa finibus, hendrerit odio eget, luctus ex. Donec bibendum nulla massa, nec tincidunt nunc aliquam sit amet. Proin sit amet iaculis urna. Sed metus neque, porttitor ut lacinia eu, finibus imperdiet turpis. Proin vitae lorem sit amet neque tincidunt sodales sed ut nisl. Proin finibus elit quis aliquam dignissim. Sed dolor tortor, consectetur at luctus non, scelerisque at diam. Aenean sodales pulvinar enim eget pulvinar. Curabitur malesuada non.\n']
+│   └── b'\x80\xc42\x91\xb3\x10{\xef\xc7\x1c4Y>\xd5;F3\xd5\x97\x8c\x1a\xa0+!\xb3\x18\xad\xef(\xf2J\xe6'[b'Quisque mattis justo quis libero faucibus accumsan. Mauris nec fermentum dolor, pharetra accumsan massa. Sed nisi magna, sodales vel facilisis sit amet, lacinia nec enim. Nam pulvinar feugiat sagittis. Fusce nisi diam, suscipit sed tincidunt sit amet, interdum vitae nulla. Aenean lacus lectus, hendrerit vel lacus nec, egestas ultrices massa. Phasellus volutpat at diam non tincidunt. Nulla tempus, libero vel sollicitudin scelerisque, leo ipsum imperdiet augue, at consectetur arcu dolor ac eros.\n']
+└── b'\x14<\\\xa4yX\xc4r\t\xa6\xd5\x136\xf9\xa0\xd0\x9f\x19\xd8\xef\xe6\x94\x94Q\xef\x95\xe5\xe8\x90"zB'[b'Maecenas sed libero vestibulum turpis viverra pellentesque id vitae velit. Nunc at arcu eget eros hendrerit pulvinar ut sed ligula. Donec sed justo lorem. Integer erat lectus, consectetur ac auctor nec, laoreet in tortor. Nulla quis aliquet lacus, eget rutrum urna. Vivamus auctor ligula quam, efficitur egestas ante posuere in. Aliquam sagittis lectus leo, vel dapibus leo dictum in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed leo nec nunc lobortis molestie.\n']
